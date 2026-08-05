@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author thisa
+ * @author Rochana
  */
 
 public class BillingDAO {
