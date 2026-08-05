@@ -22,7 +22,7 @@ import javax.ws.rs.core.Response;
 
 /**
  *
- * @author thisa
+ * @author Rochana Godi
  */
 @Path("medicalrecords")
 public class MedicalRecordResource {

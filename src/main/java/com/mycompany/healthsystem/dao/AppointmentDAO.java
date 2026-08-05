@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author thisa
+ * @author Rochana Godigamuwa
  */
 
 public class AppointmentDAO {

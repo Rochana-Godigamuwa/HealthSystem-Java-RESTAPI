@@ -6,7 +6,7 @@ package com.mycompany.healthsystem.models;
 
 /**
  *
- * @author thisa
+ * @author Rochana Godigamuwa
  */
 public class Prescription {
     

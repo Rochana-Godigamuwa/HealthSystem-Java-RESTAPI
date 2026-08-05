@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  *
- * @author thisa
+ * @author Rochana Godigamuwa
  */
 public class Appointment {
     

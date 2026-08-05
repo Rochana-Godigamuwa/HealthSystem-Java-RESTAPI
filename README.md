@@ -157,6 +157,6 @@ HealthSystem/
 - Add a simple front-end to consume the API
 - Add automated tests for the DAO and resource layers
 
-## License
+## Owner and created from 2024.03.12 to 2024.03.25
 
-No license specified yet.
+R.K.B Godigamuwa

@@ -9,7 +9,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 /**
  *
- * @author thisa
+ * @author Rochana Godigamuwa
  */
 
 @JsonPropertyOrder({"billingId", "payment", "outstandingBalances", "patient"})
